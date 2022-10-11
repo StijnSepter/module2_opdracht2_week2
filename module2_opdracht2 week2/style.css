@@ -1,0 +1,75 @@
+body{
+	background-color:lightgrey;
+    font-family: sans-serif;
+}
+
+h1{
+	text-align:center;
+    margin-left: 100px;
+}
+
+#broodplank{
+    width: 600px;
+    height: 800px;
+    float: right;
+    margin-right: 350px;
+    border-radius: 3%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.text{
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.ingredients{
+    float: left bottom;
+}
+
+#footer{
+    float: right;
+}
+
+.no margin{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.foto{
+    height: 250px;
+    width: 300px;
+    border-radius: 2%;
+    margin: 250px 0 0 30px;
+}
+
+#display under{
+    margin-top: 10px;
+    justify-content: bottom;
+}
+
+.recipe_details{
+    display: block;
+}
+
+#space{
+    margin-top: 240px;
+}
+
+#end{
+    margin: 5px 5px 5px 25px;
+}
+
+h2{
+    margin-top: 50px;
+}
+  
+.follow {
+    font-family: sans-serif;
+    position:absolute;
+    color: white;
+    bottom: 650px;
+    right: 370px;
+}
